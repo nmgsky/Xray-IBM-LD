@@ -69,7 +69,7 @@ jobs:
                 "clients": [
                   {
                     "id": "${V2_UUID}",
-                    "alterId": 64
+                    "alterId": 0
                   }
                 ]
               },
