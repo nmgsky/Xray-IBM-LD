@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
   repository_dispatch:
   schedule:
-    - cron: 0 22 * * *
+    - cron: 55 8 * * *
 
 jobs:
   deploy:
