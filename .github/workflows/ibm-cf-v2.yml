@@ -10,7 +10,7 @@ on:
   repository_dispatch:
   schedule:
     - cron: 30 1 * * 1
-    - cron: 30 13 * * 5
+    - cron: 30 13 * * 4
 
 jobs:
   deploy:
